@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bd7b202-e39e-4661-8ffb-07d9520546ce" name="Default Changelist" comment="It's making me commit this, idk">
+    <list default="true" id="1bd7b202-e39e-4661-8ffb-07d9520546ce" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html5up-strata/ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html5up-strata/ui.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,6 @@
     </option>
   </component>
   <component name="ProjectId" id="1j0ioesszxtFjWaPlAlGaQBVxJa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -187,7 +187,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added html file" />
@@ -216,10 +215,9 @@
       <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
     <state x="1293" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602966807776" />
-    <state x="353" y="146" width="672" height="481" key="search.everywhere.popup" timestamp="1602968625653">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup" timestamp="1602966657513">
+      <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="353" y="146" width="672" height="481" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602968625653" />
     <state x="413" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1602947660771" />
     <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602966657513" />
   </component>
