@@ -31,46 +31,60 @@
     <header class="major">
       <img src = "images/full_logo.png" height="150" width = "350">
     </header>
-    <p> We are a personal financial planning service aimed at people who may not have extensive experience in this area. Our goal is to
-      help all people seeking financial stability to find a way to stay on top of what's coming in, and what's going out. </p>
+    <p> This is your financial tracking page. Here, you can visualize your inflows and outflows to help plan your spending schedule. </p>
   </section>
 
 
 
   <!-- Three -->
   <section id="three">
-    <h2> Create An Account With Us </h2>
-    <p> Just enter your name, email, and phone number to create your free account! </p>
+    <h2> My Finances </h2>
+    <p> Here, you will see a timeline of your transactions. </p>
     <div class="row">
       <div class="col-8 col-12-small">
+        <h3> <i>Add New Expense/Income</i> </h3>
         <form method="post" action="#">
           <div class="row gtr-uniform gtr-50">
-            <div class="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Name" /></div>
-            <div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
-            <div class="col-6 col-12-xsmall"><input type="text" name="phonenumber" id="phone" placeholder="Phone Number" /></div>
-            <div class="col-6 col-12-xsmall"><input type="password" name="password" id="password" placeholder="Password" /></div>
-            <div class="col-12"><textarea name="message" id="message" placeholder="Personal Financial Goals" rows="4"></textarea></div>
+            <div class="col-6 col-12-xsmall"><input type="text" name="title" id="titleinput" placeholder="Title" /></div>
+            <div class="col-6 col-12-xsmall"><input type="text" name="amount" id="amountinput" placeholder="Amount ($)" /></div>
+            <div class="col-6 col-12-xsmall"><input type="text" name="date" id="dateinput" placeholder="mm/dd/yyyy" /></div>
           </div>
         </form>
         <ul class="actions">
-          <li><a href="./ui.html" class="button">Create Account</a></li>
+          <li><a class="button"> Add </a></li>
         </ul>
       </div>
-      <div class="col-4 col-12-small">
-        <ul class="labeled-icons">
-          <li>
-            <h3 class="icon solid fa-home"><span class="label">Address</span></h3>
-            Global
-          </li>
-          <li>
-            <h3 class="icon solid fa-mobile-alt"><span class="label">Phone</span></h3>
-            919-896-5915
-          </li>
-          <li>
-            <h3 class="icon solid fa-envelope"><span class="label">Email</span></h3>
-            <a href="#">fintrack@gmail.com</a>
-          </li>
-        </ul>
+    </div>
+    <div class="row" id="ledger">
+      <div id="table_header">
+        <table>
+          <tr>
+            <th width = "200"> Date </th>
+            <th width = "400"> Title </th>
+            <th width = "200"> +/- Amount ($) </th>
+          </tr>
+          <tr>
+            <td width = "200"> mm/dd/yyyy </td>
+            <td width = "400"> - Title -  </td>
+            <td width = "200"> +/- Amount ($) </td>
+          </tr>
+          <tr>
+            <td width = "200"> mm/dd/yyyy </td>
+            <td width = "400"> - Title -  </td>
+            <td width = "200"> +/- Amount ($) </td>
+          </tr>
+          <tr>
+            <td width = "200"> mm/dd/yyyy </td>
+            <td width = "400"> - Title -  </td>
+            <td width = "200"> +/- Amount ($) </td>
+          </tr>
+          <tr>
+            <td width = "200"> mm/dd/yyyy </td>
+            <td width = "400"> - Title -  </td>
+            <td width = "200"> +/- Amount ($) </td>
+          </tr>
+
+        </table>
       </div>
     </div>
   </section>
@@ -90,6 +104,7 @@
 </footer>
 
 <!-- Scripts -->
+<script src="/src/ui_js.js"></script>
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/jquery.poptrox.min.js"></script>
 <script src="assets/js/browser.min.js"></script>
