@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd7b202-e39e-4661-8ffb-07d9520546ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/input.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/input.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
     </list>
@@ -195,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602973127802</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Oooooommmyyygodddddd this is soooooo sexyyyyy">
+      <created>1602973609657</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1602973609657</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,14 +236,18 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="252" y="125" key="SettingsEditor/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1602947733596" />
-    <state x="1068" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1602973129052">
+    <state x="1068" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1602973611419">
       <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="1068" y="-827" key="Vcs.Push.Dialog.v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602973129052" />
+    <state x="1068" y="-827" key="Vcs.Push.Dialog.v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602973611419" />
     <state x="1293" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602966992273">
       <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
     <state x="1293" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602966992273" />
+    <state x="100" y="0" width="1270" height="1025" maximized="true" key="dock-window-1" timestamp="1602974558083">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="100" y="0" width="1270" height="1025" maximized="true" key="dock-window-1/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602974558083" />
     <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup" timestamp="1602966657513">
       <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
