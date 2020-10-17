@@ -19,41 +19,162 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec5c7b59-f000-4bac-b00c-d9881269f690" name="Default Changelist" comment="Got a class working that can do basic debt tracking and monitoring" />
+    <list default="true" id="1bd7b202-e39e-4661-8ffb-07d9520546ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html5up-strata/ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html5up-strata/ui.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1iydTXXS9BILM1DdxILLzQ2AcLp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j0ioesszxtFjWaPlAlGaQBVxJa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\peter\IdeaProjects\hacknc2020\src\html5up-strata\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ec5c7b59-f000-4bac-b00c-d9881269f690" name="Default Changelist" comment="" />
-      <created>1602883774349</created>
+      <changelist id="1bd7b202-e39e-4661-8ffb-07d9520546ce" name="Default Changelist" comment="" />
+      <created>1602947588948</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602883774349</updated>
+      <updated>1602947588948</updated>
     </task>
-    <task id="LOCAL-00001" summary="Got a class working that can do basic debt tracking and monitoring">
-      <created>1602959569291</created>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1602948439047</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1602959569292</updated>
+      <updated>1602948439047</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added html file">
+      <created>1602951520944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602951520944</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added html file">
+      <created>1602955613495</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602955613495</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1602956810749</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602956810749</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1602956864509</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602956864509</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <created>1602957807669</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602957807669</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit">
+      <created>1602957946515</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602957946515</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit">
+      <created>1602958231292</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602958231292</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <created>1602958494536</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602958494536</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit">
+      <created>1602958577600</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602958577600</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit">
+      <created>1602959337358</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1602959337358</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit">
+      <created>1602959841642</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602959841642</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit">
+      <created>1602960779008</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602960779008</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Oooooommmyyygodddddd this is soooooo sexyyyyy">
+      <created>1602965782011</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602965782011</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Oooooommmyyygodddddd this is soooooo sexyyyyy">
+      <created>1602965968285</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602965968285</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,24 +187,38 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Got a class working that can do basic debt tracking and monitoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="Got a class working that can do basic debt tracking and monitoring" />
+    <MESSAGE value="added html file" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="Oooooommmyyygodddddd this is soooooo sexyyyyy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oooooommmyyygodddddd this is soooooo sexyyyyy" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="394" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602959104163">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="868" y="-962" key="MergeDialog" timestamp="1602965818094">
+      <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="394" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1602959104163" />
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1602959598137">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="868" y="-962" key="MergeDialog/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602965818094" />
+    <state x="1114" y="-799" key="MultipleFileMergeDialog" timestamp="1602965818112">
+      <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602959598137" />
-    <state x="298" y="-5" width="672" height="676" key="search.everywhere.popup" timestamp="1602968384130">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="1114" y="-799" key="MultipleFileMergeDialog/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602965818112" />
+    <state x="252" y="125" key="SettingsEditor" timestamp="1602947733596">
+      <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="298" y="-5" width="672" height="676" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602968384130" />
+    <state x="252" y="125" key="SettingsEditor/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1602947733596" />
+    <state x="1068" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1602965972259">
+      <screen x="516" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1068" y="-827" key="Vcs.Push.Dialog.v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602965972259" />
+    <state x="1293" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602966807776">
+      <screen x="516" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1293" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602966807776" />
+    <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup" timestamp="1602966657513">
+      <screen x="516" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="413" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1602947660771" />
+    <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602966657513" />
   </component>
 </project>
