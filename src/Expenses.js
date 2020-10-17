@@ -24,6 +24,6 @@ class Expenses {
     }
 
     printResult() {
-        print
+
     }
 }
