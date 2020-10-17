@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bd7b202-e39e-4661-8ffb-07d9520546ce" name="Default Changelist" comment="It's making me commit this, idk" />
+    <list default="true" id="1bd7b202-e39e-4661-8ffb-07d9520546ce" name="Default Changelist" comment="It's making me commit the workspace.xml file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/debtTracker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/debtTracker.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +182,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602970613324</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Test commit">
+      <created>1602971056722</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1602971056722</updated>
+    </task>
+    <task id="LOCAL-00018" summary="It's making me commit the workspace.xml file">
+      <created>1602971162351</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1602971162351</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,7 +216,9 @@
     <MESSAGE value="commit" />
     <MESSAGE value="Oooooommmyyygodddddd this is soooooo sexyyyyy" />
     <MESSAGE value="Making me commit this." />
-    <option name="LAST_COMMIT_MESSAGE" value="Making me commit this." />
+    <MESSAGE value="Test commit" />
+    <MESSAGE value="It's making me commit the workspace.xml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="It's making me commit the workspace.xml file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="868" y="-962" key="MergeDialog" timestamp="1602965818094">
@@ -214,17 +233,20 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="252" y="125" key="SettingsEditor/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1602947733596" />
-    <state x="1068" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1602965972259">
-      <screen x="516" y="-1080" width="1920" height="1040" />
+    <state x="368" y="148" key="Vcs.Push.Dialog.v2" timestamp="1602971068341">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="368" y="148" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1602971068341" />
     <state x="1068" y="-827" key="Vcs.Push.Dialog.v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602965972259" />
-    <state x="1293" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602966807776">
-      <screen x="516" y="-1080" width="1920" height="1040" />
+    <state x="518" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602971087047">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="518" y="284" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1602971087047" />
     <state x="1293" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602966807776" />
-    <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup" timestamp="1602966657513">
-      <screen x="516" y="-1080" width="1920" height="1040" />
+    <state x="353" y="146" width="672" height="481" key="search.everywhere.popup" timestamp="1602971099254">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="353" y="146" width="672" height="481" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602971099254" />
     <state x="413" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1602947660771" />
     <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602966657513" />
   </component>
