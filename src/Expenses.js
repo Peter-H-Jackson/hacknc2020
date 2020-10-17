@@ -1,4 +1,5 @@
 class Expenses {
+    var name, dateSpent, type, amount;
 
     constructor(name, dateSpent, type, amount) {
         this.name = name;
