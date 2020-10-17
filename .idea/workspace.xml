@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd7b202-e39e-4661-8ffb-07d9520546ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ui_js.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ui.html" afterDir="false" />
     </list>
@@ -57,6 +58,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\peter\IdeaProjects\hacknc2020\docs\images" />
       <recent name="C:\Users\peter\IdeaProjects\hacknc2020\src\html5up-strata\images" />
     </key>
   </component>
@@ -188,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602968368865</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Oooooommmyyygodddddd this is soooooo sexyyyyy">
+      <created>1602969775245</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1602969775245</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,18 +230,18 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="252" y="125" key="SettingsEditor/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1602947733596" />
-    <state x="1068" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1602968370434">
+    <state x="1068" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1602969776970">
       <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="1068" y="-827" key="Vcs.Push.Dialog.v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602968370434" />
+    <state x="1068" y="-827" key="Vcs.Push.Dialog.v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602969776970" />
     <state x="1293" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602966992273">
       <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
     <state x="1293" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602966992273" />
-    <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup" timestamp="1602966657513">
+    <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup" timestamp="1602970205462">
       <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
     <state x="413" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1602947660771" />
-    <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602966657513" />
+    <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602970205462" />
   </component>
 </project>
