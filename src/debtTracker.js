@@ -3,12 +3,24 @@
 */
 
 class debtTracker {
-    function debtObject (name, principal, interest) {
+
+    constructor debtObject (name, principal, interest) {
         this.name = name;
         this.principal = principal;
         this.interest = interest;
-        //comment
-}
+    }
+
+    getName() {
+        return this.name;
+    }
+
+    getPrincipal() {
+        return this.principal;
+    }
+
+    getInterest() {
+        return this.interest;
+    }
 }
 function debtObject (name, principal, interest) {
   this.name = name;
