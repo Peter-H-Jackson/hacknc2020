@@ -3,18 +3,18 @@
 */
 
 class debtTracker {
-
-    constructor debtObject (name, principal, interest) {
+    function debtObject (name, principal, interest) {
         this.name = name;
         this.principal = principal;
         this.interest = interest;
-    }
+        //comment
 }
-//function debtObject (name, principal, interest) {
-//  this.name = name;
-//  this.principal = principal;
-//  this.interest = interest;
-//}
+}
+function debtObject (name, principal, interest) {
+  this.name = name;
+  this.principal = principal;
+  this.interest = interest;
+}
 
 // Create a debtObject
 var mortgageDebt = new debtObject("mortgage", 500, 1.12)
