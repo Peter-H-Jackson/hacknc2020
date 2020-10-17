@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bd7b202-e39e-4661-8ffb-07d9520546ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html5up-strata/ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html5up-strata/ui.html" afterDir="false" />
-    </list>
+    <list default="true" id="1bd7b202-e39e-4661-8ffb-07d9520546ce" name="Default Changelist" comment="It's making me commit this, idk" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +43,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1j0ioesszxtFjWaPlAlGaQBVxJa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -174,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602965968285</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Making me commit this.">
+      <created>1602970613324</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602970613324</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,12 +192,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added html file" />
     <MESSAGE value="commit" />
     <MESSAGE value="Oooooommmyyygodddddd this is soooooo sexyyyyy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oooooommmyyygodddddd this is soooooo sexyyyyy" />
+    <MESSAGE value="Making me commit this." />
+    <option name="LAST_COMMIT_MESSAGE" value="Making me commit this." />
   </component>
   <component name="WindowStateProjectService">
     <state x="868" y="-962" key="MergeDialog" timestamp="1602965818094">
