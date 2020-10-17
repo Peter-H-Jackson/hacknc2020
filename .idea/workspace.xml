@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd7b202-e39e-4661-8ffb-07d9520546ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/html5up-strata/access_acct.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html5up-strata/accessAcct.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html5up-strata/create_acct.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html5up-strata/createAcct.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/html5up-strata/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html5up-strata/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html5up-strata/ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/html5up-strata/ui.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602960779008</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Oooooommmyyygodddddd this is soooooo sexyyyyy">
+      <created>1602965782011</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602965782011</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Oooooommmyyygodddddd this is soooooo sexyyyyy">
+      <created>1602965968285</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602965968285</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,25 +191,34 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added html file" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="Oooooommmyyygodddddd this is soooooo sexyyyyy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Oooooommmyyygodddddd this is soooooo sexyyyyy" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="868" y="-962" key="MergeDialog" timestamp="1602965818094">
+      <screen x="516" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="868" y="-962" key="MergeDialog/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602965818094" />
+    <state x="1114" y="-799" key="MultipleFileMergeDialog" timestamp="1602965818112">
+      <screen x="516" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1114" y="-799" key="MultipleFileMergeDialog/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602965818112" />
     <state x="252" y="125" key="SettingsEditor" timestamp="1602947733596">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="252" y="125" key="SettingsEditor/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1602947733596" />
-    <state x="1068" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1602960792226">
+    <state x="1068" y="-827" key="Vcs.Push.Dialog.v2" timestamp="1602965972259">
       <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="1068" y="-827" key="Vcs.Push.Dialog.v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602960792226" />
-    <state x="1293" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602956751352">
+    <state x="1068" y="-827" key="Vcs.Push.Dialog.v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602965972259" />
+    <state x="1293" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602966807776">
       <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="1293" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602956751352" />
-    <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup" timestamp="1602951662522">
+    <state x="1293" y="-646" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602966807776" />
+    <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup" timestamp="1602966657513">
       <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
     <state x="413" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1602947660771" />
-    <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602951662522" />
+    <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602966657513" />
   </component>
 </project>
