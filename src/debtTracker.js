@@ -2,7 +2,13 @@
 
 */
 
-
+class debtTracker {
+    function debtObject (name, principal, interest) {
+        this.name = name;
+        this.principal = principal;
+        this.interest = interest;
+}
+}
 function debtObject (name, principal, interest) {
   this.name = name;
   this.principal = principal;
