@@ -23,8 +23,4 @@ class Expenses {
     getAmount() {
         return this.amount;
     }
-
-    printResult() {
-
-    }
 }
