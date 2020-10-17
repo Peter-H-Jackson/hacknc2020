@@ -28,7 +28,7 @@ class Expenses {
 }
 
 function myFunction() {
-  var expense = new Expense(
+  var expense = new Expenses(
   document.getElementById("expnameinput").value,
   document.getElementById("expamountinput").value,
   document.getElementById("exptypeinput").value,
