@@ -4,7 +4,7 @@
 
 class debtTracker {
 
-    constructor debtObject (name, principal, interest) {
+    constructor(name, principal, interest) {
         this.name = name;
         this.principal = principal;
         this.interest = interest;
@@ -22,10 +22,23 @@ class debtTracker {
         return this.interest;
     }
 }
-function debtObject (name, principal, interest) {
-  this.name = name;
-  this.principal = principal;
-  this.interest = interest;
+  // This is a method that is the same thing as the constructor and still works
+  /*function debtObject (name, principal, interest) {
+    this.name = name;
+    this.principal = principal;
+    this.interest = interest;
+} */
+
+  getPayoff(years) {
+        var i;
+        var annualTotal = principal;
+        for (i = 0; i < years; i++){
+            annualTotal *= interest
+        }
+        return ("If you pay this debt balance of over the course of " + years +
+        "years, you will pay  $" + annualTotal + " total.");
+    }
+
 }
 
 // Create a debtObject
