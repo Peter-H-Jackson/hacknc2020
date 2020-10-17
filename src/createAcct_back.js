@@ -6,6 +6,7 @@ class User {
     this.password = password;
     this.phone = phone;
     this.goals = goals;
+
   }
 
   getName() {
@@ -27,11 +28,18 @@ class User {
   getGoals() {
     return goals;
   }
+
+  toCSV() {
+    return [
+    [name, email, phone, password, goals]
+    ]
+  }
 }
 
 function createUser() {
 
   var name, email, password, phone, goals;
+
   name = document.getElementById("name").value;
   email = document.getElementById("email").value;
   password = document.getElementById("password").value;
@@ -39,4 +47,10 @@ function createUser() {
   goals = document.getElementById("goals").value;
 
   var user = new User(name, email, password, phone, goals);
+
+  const userRow = user.toCSV();
+
+  file.open("data.csv");
+
+  let csvContent =
 }

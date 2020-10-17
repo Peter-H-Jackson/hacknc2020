@@ -22,8 +22,10 @@ class Expenses {
         return this.amount;
     }
 
-    printResult() {
-
+    toCSV () {
+      return [
+      name, date, type, amount]
+      ]
     }
 }
 
