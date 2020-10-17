@@ -39,11 +39,11 @@
 										<div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
 										<div class="col-6 col-12-xsmall"><input type="text" name="phonenumber" id="phone" placeholder="Phone Number" /></div>
 										<div class="col-6 col-12-xsmall"><input type="password" name="password" id="password" placeholder="Password" /></div>
-										<div class="col-12"><textarea name="message" id="message" placeholder="Personal Financial Goals" rows="4"></textarea></div>
+										<div class="col-12"><textarea name="message" id="goals" placeholder="Personal Financial Goals" rows="4"></textarea></div>
 									</div>
 								</form>
 								<ul class="actions">
-									<li><a href="./ui.html" class="button">Create Account</a></li>
+									<li><a onclick="createUser()" href="./ui.html" class="button">Create Account</a></li>
 								</ul>
 							</div>
 							<div class="col-4 col-12-small">
@@ -80,6 +80,7 @@
 			</footer>
 
 		<!-- Scripts -->
+		  <script src="/src/createAcct_back.js"></script>
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.poptrox.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>
