@@ -51,7 +51,7 @@
           </div>
         </form>
         <ul class="actions">
-          <li><a class="button"> Add </a></li>
+          <li><a class="button" onclick="addExp()"> Add </a></li>
         </ul>
       </div>
     </div>
@@ -64,9 +64,9 @@
             <th width = "200"> +/- Amount ($) </th>
           </tr>
           <tr>
-            <td width = "200"> mm/dd/yyyy </td>
-            <td width = "400"> - Title -  </td>
-            <td width = "200"> +/- Amount ($) </td>
+            <td width = "200" id="date_1"> mm/dd/yyyy </td>
+            <td width = "400" id="title_1"> - Title -  </td>
+            <td width = "200" id="amount_1"> +/- Amount ($) </td>
           </tr>
           <tr>
             <td width = "200"> mm/dd/yyyy </td>
@@ -104,7 +104,7 @@
 </footer>
 
 <!-- Scripts -->
-<script src="/src/ui_js.js"></script>
+<script src="./ui_back.js"></script>
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/jquery.poptrox.min.js"></script>
 <script src="assets/js/browser.min.js"></script>

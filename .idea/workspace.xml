@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd7b202-e39e-4661-8ffb-07d9520546ce" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/ui_back.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createAcct_back.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/createAcct_back.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ui.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +54,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -231,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602978076259</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Oooooommmyyygodddddd this is soooooo sexyyyyy">
+      <created>1602979705936</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1602979705936</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Oooooommmyyygodddddd this is soooooo sexyyyyy">
+      <created>1602979775314</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1602979775314</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,6 +274,11 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="93" y="93" width="1095" height="535" key="DiffContextDialog/0.0.1280.720/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1602977288332" />
+    <state x="531" y="235" key="FileChooserDialogImpl" timestamp="1603033359790">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="531" y="235" key="FileChooserDialogImpl/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1603033359790" />
+    <state x="531" y="235" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1602988408805" />
     <state x="868" y="-962" key="MergeDialog" timestamp="1602965818094">
       <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
@@ -275,11 +296,11 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="381" y="77" key="VCS.ChangeListViewerDialog/0.0.1280.720@0.0.1280.720" timestamp="1602977000041" />
-    <state x="431" y="234" key="Vcs.Push.Dialog.v2" timestamp="1602978078233">
+    <state x="431" y="234" key="Vcs.Push.Dialog.v2" timestamp="1602979776814">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="368" y="161" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1602977017482" />
-    <state x="431" y="234" key="Vcs.Push.Dialog.v2/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1602978078233" />
+    <state x="431" y="234" key="Vcs.Push.Dialog.v2/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1602979776814" />
     <state x="1068" y="-827" key="Vcs.Push.Dialog.v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602977061065" />
     <state x="-1143" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602977249229">
       <screen x="-1920" y="0" width="1920" height="1080" />
@@ -291,6 +312,10 @@
       <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
     <state x="996" y="-1069" width="2540" height="380" key="dock-window-1/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602976996434" />
+    <state x="460" y="35" width="579" height="888" key="find.popup" timestamp="1602979866831">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="460" y="35" width="579" height="888" key="find.popup/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1602979866831" />
     <state x="1045" y="-857" width="861" height="735" key="search.everywhere.popup" timestamp="1602966657513">
       <screen x="516" y="-1080" width="1920" height="1040" />
     </state>
