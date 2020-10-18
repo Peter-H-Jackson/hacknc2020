@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bd7b202-e39e-4661-8ffb-07d9520546ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/ui_back.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/ui.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ui.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/ui_back.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/ui_back.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602979775314</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="commit">
+      <created>1603034638332</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1603034638332</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,10 +271,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added html file" />
-    <MESSAGE value="commit" />
     <MESSAGE value="Bruh" />
     <MESSAGE value="Oooooommmyyygodddddd this is soooooo sexyyyyy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Oooooommmyyygodddddd this is soooooo sexyyyyy" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="93" y="93" width="1095" height="535" key="DiffContextDialog" timestamp="1602977288332">
@@ -296,11 +303,11 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="381" y="77" key="VCS.ChangeListViewerDialog/0.0.1280.720@0.0.1280.720" timestamp="1602977000041" />
-    <state x="431" y="234" key="Vcs.Push.Dialog.v2" timestamp="1602979776814">
+    <state x="431" y="234" key="Vcs.Push.Dialog.v2" timestamp="1603034648011">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="368" y="161" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1602977017482" />
-    <state x="431" y="234" key="Vcs.Push.Dialog.v2/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1602979776814" />
+    <state x="431" y="234" key="Vcs.Push.Dialog.v2/0.0.1500.960/516.-1080.1920.1040@0.0.1500.960" timestamp="1603034648011" />
     <state x="1068" y="-827" key="Vcs.Push.Dialog.v2/0.0.1500.960/516.-1080.1920.1040@516.-1080.1920.1040" timestamp="1602977061065" />
     <state x="-1143" y="450" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602977249229">
       <screen x="-1920" y="0" width="1920" height="1080" />
