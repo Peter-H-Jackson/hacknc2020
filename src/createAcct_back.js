@@ -47,10 +47,4 @@ function createUser() {
   goals = document.getElementById("goals").value;
 
   var user = new User(name, email, password, phone, goals);
-
-  const userRow = user.toCSV();
-
-  file.open("data.csv");
-
-  let csvContent =
 }
